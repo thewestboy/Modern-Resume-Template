@@ -22,7 +22,7 @@
 
 🚀 Experience the live version here:
 
-**👉 [https://your-demo-link.com](https://thewestboy.github.io/Modern-Resume-Template/)**
+**👉 [Preview](https://thewestboy.github.io/Modern-Resume-Template/)**
 
 ---
 
