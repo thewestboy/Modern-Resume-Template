@@ -18,11 +18,11 @@
 
 ---
 
-# 🚀 Overview
+# 🌐 Live Demo
 
-Modern Resume Template is a clean, elegant and fully responsive resume built with **pure HTML, CSS and JavaScript**.
+🚀 Experience the live version here:
 
-Designed with attention to typography, spacing, smooth interactions and user experience, this template helps developers create a professional online resume without relying on any framework.
+**👉 [https://your-demo-link.com](https://thewestboy.github.io/Modern-Resume-Template/)**
 
 ---
 
